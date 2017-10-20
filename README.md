@@ -10,6 +10,8 @@
 
 Criar um algoritimo que retorne o menor número de cédulas, baseado num valor passado via parametro para o programa em [Nodejs](<https://nodejs.org/en/>).
 
+Veja um exemplo funcionando <https://youtu.be/mIjm9tUMbdo>
+
 ### Requisitos
 
 1.Faça fork deste projeto e depois de concluído faça um push
