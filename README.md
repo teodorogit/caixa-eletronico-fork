@@ -14,4 +14,4 @@ Veja um exemplo funcionando <https://youtu.be/mIjm9tUMbdo>
 
 ### Requisitos
 
-1.Faça fork deste projeto e depois de concluído faça um push
+1.Faça fork deste projeto, crie uma pasta com seu nome e depois de concluído faça um pull request.
