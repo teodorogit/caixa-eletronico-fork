@@ -1,6 +1,6 @@
 # Caixa eletrônico
 
-![caixa eletronico](https://c1.staticflickr.com/9/8044/8125974243_f6ce8726f2_b.jpg)
+![caixa eletronico](https://c1.staticflickr.com/9/8044/8125974243_f6ce8726f2_b.jpg){ width=50% }
 
 ## Contextualização
 
@@ -10,7 +10,6 @@
 
 Criar um algoritimo que retorne o menor número de cédulas, baseado num valor passado via parametro para o programa em [Nodejs](<https://nodejs.org/en/>).
 
-Veja um exemplo funcionando <https://youtu.be/mIjm9tUMbdo>
 
 ### Requisitos
 
