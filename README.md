@@ -1,6 +1,6 @@
 # Caixa eletrônico
 
-![caixa eletronico](https://c1.staticflickr.com/9/8044/8125974243_f6ce8726f2_b.jpg){ width=50% }
+![caixa eletronico](https://c1.staticflickr.com/9/8044/8125974243_f6ce8726f2_b.jpg=200x100)
 
 ## Contextualização
 
