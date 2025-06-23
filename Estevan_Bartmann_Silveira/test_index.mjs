@@ -1,6 +1,7 @@
-const assert = require('node:assert/strict')
-const it = require('node:test')
-const notasASeremSacadas = require('./index.js')
+
+import assert from 'node:assert'
+import { it } from 'node:test'
+import notasASeremSacadas from './index.js';
 
 it('Testing when input value its zero', () => {
   const inputZero = notasASeremSacadas([10])
