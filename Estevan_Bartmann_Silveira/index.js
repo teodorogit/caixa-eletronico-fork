@@ -1,4 +1,4 @@
-export default function notasASeremSacadas(valorDesejado) {
+function notasASeremSacadas(valorDesejado) {
     if (typeof valorDesejado !== 'number' || valorDesejado < 0) {
         return [];
       }
@@ -24,3 +24,5 @@ export default function notasASeremSacadas(valorDesejado) {
 
     return saidaNotas
 }
+
+export default notasASeremSacadas;
