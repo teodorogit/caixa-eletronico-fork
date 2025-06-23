@@ -1,0 +1,20 @@
+{
+  "name": "caixa-eletronico-fork",
+  "version": "1.0.0",
+  "description": "![caixa eletronico](https://c1.staticflickr.com/9/8044/8125974243_f6ce8726f2_b.jpg=200x100)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node Estevan_Bartmann_Silveira/test_index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teodorogit/caixa-eletronico-fork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teodorogit/caixa-eletronico-fork/issues"
+  },
+  "homepage": "https://github.com/teodorogit/caixa-eletronico-fork#readme"
+}
