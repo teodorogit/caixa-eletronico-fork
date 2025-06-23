@@ -1,4 +1,8 @@
-function notasASeremSacadas(valorDesejado) {
+export default function notasASeremSacadas(valorDesejado) {
+    if (typeof valorDesejado !== 'number' || valorDesejado < 0) {
+        return [];
+      }
+
     let notasDisponiveis = [100, 50, 20, 10, 5, 2, 1]
     let saidaNotas = []
     let total = 0
@@ -17,5 +21,6 @@ function notasASeremSacadas(valorDesejado) {
             }
         }
     }
-    console.log(saidaNotas)
+
+    return saidaNotas
 }
